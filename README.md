@@ -2,8 +2,8 @@
 
 Hello there,  my name is Luigi Perotti Souza and I'm a student at Federal University of Santa Maria
 
-- 🔭 I’m currently working on Stars Aceleradora
-- 🌱 I’m currently learning about object oriented programming and web development
+- 🔭 I’m currently working on  SIS-ASTROS GMF
+- 🌱 I’m currently learning about object oriented programming and Unity
 - 📫 How to reach me: lpsouza@inf.ufsm.br
 - ⚡ Fun fact: I know magic and a bit of music
 
