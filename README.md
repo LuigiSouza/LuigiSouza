@@ -3,7 +3,7 @@
 Hello there,  my name is Luigi Perotti Souza and I'm a master's student at Federal University of Santa Maria
 
 - 🔭 I’m currently working with React-Native
-- 🌱 I’m currently learning about object oriented programming and Unity
+- 🌱 I’m currently studying about Artificial Intelligence
 - 📫 How to reach me: lpsouza@inf.ufsm.br
 - ⚡ Fun fact: I know magic and a bit of music
 
